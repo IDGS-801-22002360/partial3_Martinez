@@ -60,7 +60,7 @@ Si las credenciales son correctas, serás redirigido a la página de bienvenida
 la aplicacion tiene como rutas protegidas el index, que es donde se hacen las ordenes, de esta forma no se puede acceder si no se esta logeado
 
 **Cierre de sesión:**
-Solamente hay que hacer click en el boton de "Cerrar secion" para que se cierre la secion del usuario, y una vez hecho el
+Solamente hay que hacer click en el boton de "Cerrar sesion" para que se cierre la sesion del usuario, y una vez hecho el
 usuario ya no podra acceder a ninguna de las rutas, en automatico lo redirigira a la pagina de login
 
 ## Ejecucion
